@@ -1,0 +1,11 @@
+pulp
+networkx
+matplotlib
+pandas
+numpy
+streamlit
+seaborn
+plotly
+scipy
+xlsxwriter
+fuzzywuzzy[speedup]
