@@ -8,4 +8,5 @@ seaborn
 plotly
 scipy
 xlsxwriter
+ortools
 fuzzywuzzy[speedup]
